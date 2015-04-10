@@ -1,5 +1,5 @@
 
-/*
+
 //SORTBY _ METHOD
 console.log('_.sortBy lodash method');
 console.info('sort collection by item.name');
@@ -375,4 +375,3 @@ size = Math.ceil(0.25 * collection.length);		// figuring out the chunk size base
 _.chunk(collection, size);						// chunk() split tha large collection into smaller ones
 console.log(collection);				
 console.log('');
-*/
